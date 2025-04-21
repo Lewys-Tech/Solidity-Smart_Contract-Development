@@ -67,7 +67,9 @@ If you're also learning Solidity or working on smart contract development, I'd l
 - Share your own resources or tips in the issues section.
 - Collaborate on future projects or challenges.
 
-Let's learn and grow together in the blockchain space!
+Let's learn and grow together in the blockchain space and make web3 ecosystem a better place:
+I am loving every journey i am making in web3 and am proud of myself...
+
 
 ---
 
